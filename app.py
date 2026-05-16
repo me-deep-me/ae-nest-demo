@@ -245,6 +245,11 @@ with st.sidebar:
     <div style="font-size:0.72rem; color:rgba(106,174,232,0.5); margin-top:1rem;">
     by <a href="https://mattiaerigoni.com" style="color:#6aaee8;">Mattia Erigoni</a>
     </div>
+    <div style="margin-top:1rem;padding:0.6rem 0.8rem;border-left:2px solid rgba(106,174,232,0.25);
+      font-size:0.68rem;color:rgba(221,230,242,0.35);line-height:1.6;font-style:italic;">
+      This is a web demo — a simplified version of the full tool.<br>
+      The local app includes Revit/Excel import, DXF export for CNC, 3D GLB models, and advanced UI controls.
+    </div>
     """, unsafe_allow_html=True)
 
 # ── Panel input ───────────────────────────────────────────────────────────────
